@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
-- 🔭 I’m currently working on [VasatYab](https://vasatyab.vercel.app/) and [Siktir](https://siktir.fun)
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on making studio.
-- 🤔 I’m looking for team.
-- 💬 Ask me about everything
+- 🔭 I’m currently working on my personal branding.
+- 🌱 I’m currently learning about various subjects.
+- 👯 I’m seeking a team to build projects like [VasatYab](https://vasatyab.vercel.app/) and [Siktir](https://siktir.fun).
+- 💬 Ask me about anything!
 - 📫 How to reach me: **youKnow**
-- ⚡ Fun fact: my weight is 143.752 kg.
+- ⚡ Fun fact: My weight is 143.752 kg.
 
 ## 🛠️ Technologies & Tools
 
