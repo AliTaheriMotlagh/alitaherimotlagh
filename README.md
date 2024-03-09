@@ -1,21 +1,27 @@
-## 👋 Hello! 
-Software engineer with 5+ years of experience.  Worked for innovative startups, large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+<h1 align="center">Hi 👋, I'm Ali</h1>
 
+- 🔭 I’m currently working on [VasatYab](https://vasatyab.vercel.app/) and [Siktir](https://siktir.fun)
+- 🌱 I’m currently learning everything.
+- 👯 I’m looking to collaborate on making studio.
+- 🤔 I’m looking for team.
+- 💬 Ask me about everything
+- 📫 How to reach me: **youKnow**
+- ⚡ Fun fact: my weight is 143.752 kg.
 
 ## 🛠️ Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 
-
 ## 📊 Statistics
-[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=AliTaheriMotlagh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=AliTaheriMotlagh&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AliTaheriMotlagh/alitaherimotlagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [VasatYab](https://vasatyab.vercel.app/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
