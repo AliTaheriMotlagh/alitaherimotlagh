@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
-- 🔭 I’m currently working on my personal branding.
+- 🔭 I’m currently working on my company.
 - 🌱 I’m currently learning about various subjects.
 - 👯 I’m seeking a team to build projects like [VasatYab](https://vasatyab.vercel.app/) and [Siktir](https://siktir.fun).
 - 💬 Ask me about anything!
