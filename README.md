@@ -5,7 +5,7 @@
 - 👯 I’m seeking a team to build projects like [VasatYab](https://vasatyab.vercel.app/) and [Siktir](https://siktir.fun).
 - 💬 Ask me about anything!
 - 📫 How to reach me: **youKnow**
-- ⚡ Fun fact: My weight is 143.752 kg.
+- ⚡ Fun fact: My weight is 146 kg.
 
 ## 🛠️ Technologies & Tools
 
