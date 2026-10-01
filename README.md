@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://alitaherimotlagh.vercel.app/"><img src="https://img.shields.io/badge/Website-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://linkedin.com/in/alitaherimotlagh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://linktr.ee/alanfilm"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
   <a href="https://vasatyab.vercel.app/"><img src="https://img.shields.io/badge/VasatYab-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="VasatYab"/></a>
@@ -30,6 +31,7 @@
 const ali = {
   role: "Software Engineer",
   location: "Tehran, Iran 🇮🇷",
+  website: "https://alitaherimotlagh.vercel.app",
   currentlyWorkingOn: "a brand-new company 🏗️",
   currentlyLearning: ["Angular", "TypeScript (deeper)"],
   lookingFor: "a team to build projects like VasatYab, Remixt, Siktir & new ideas",
@@ -124,13 +126,13 @@ const ali = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliTaheriMotlagh&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=AliTaheriMotlagh&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliTaheriMotlagh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-trophies.vercel.app/?username=AliTaheriMotlagh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </p>
 
 ---
@@ -147,10 +149,10 @@ const ali = {
 
 ---
 
-## 😂 Random Dev Joke
+## 😂 Dev Joke
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="joke" />
+  <i>"Ye roz ye barnamenevise angoshte pash mikhore be on zire mobl"</i> 🦶💥🛋️
 </p>
 
 ## 💭 Quote of the Moment
@@ -166,6 +168,7 @@ const ali = {
 I'm looking for teammates to build fun, useful products. Got an idea? Let's talk!
 
 <p align="center">
+  <a href="https://alitaherimotlagh.vercel.app/">🌐 Website</a> ·
   <a href="https://linkedin.com/in/alitaherimotlagh">💼 LinkedIn</a> ·
   <a href="https://linktr.ee/alanfilm">🌳 All my links</a> ·
   <a href="https://github.com/AliTaheriMotlagh?tab=repositories">📦 All repos</a>
