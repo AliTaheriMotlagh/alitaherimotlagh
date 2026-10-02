@@ -152,13 +152,7 @@ const ali = {
 ## 😂 Dev Joke
 
 <p align="center">
-  <i>"Ye roz ye barnamenevise angoshte pash mikhore be on zire mobl"</i> 🦶💥🛋️
-</p>
-
-## 💭 Quote of the Moment
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+  <i>"ye roz ye barname nevise pash mikhore be mobl mige aay"</i> 🦶💥🛋️
 </p>
 
 ---
